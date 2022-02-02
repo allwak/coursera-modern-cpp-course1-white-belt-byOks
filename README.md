@@ -32,64 +32,10 @@ Week	       |Description    | ReadMe Created  | Completed       | Quick Link
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-four_34-fe0f-20e3.png" height="17"/> 	|Input and Output, Execeptions and Rewriting of Operators | ⚠️ **(in progress)** 	        | ⚠️ **(in progress)**         | [Link]()
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-five_35-fe0f-20e3.png" height="17"/> |Project | ❌ 	       | ❌         | [Link]()
 
-## Finished sections:
-	
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-one_31-fe0f-20e3.png" height="18"/> [Week 1](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201)
-
-* **Skills learnt**:
-	* `Challenge 1`
-	* How to Design iOS `Image Assets`
-	* App `Icon` Dimensions
-	* `Sideloading`
-	* `UILabel`
-	* `ImageView`
-
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-two_32-fe0f-20e3.png" height="18"/> [Week 2](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201)
-
-* **Skills learnt**:
-	* `Challenge 1`
-	* How to Design iOS `Image Assets`
-	* App `Icon` Dimensions
-	* `Sideloading`
-	* `UILabel`
-	* `ImageView`
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-three_33-fe0f-20e3.png" height="18"/> [Week 3](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201)
-
-* **Skills learnt**:
-	* `Challenge 1`
-	* How to Design iOS `Image Assets`
-	* App `Icon` Dimensions
-	* `Sideloading`
-	* `UILabel`
-	* `ImageView`
-	
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-four_34-fe0f-20e3.png" height="18"/> [Week 4](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201)
-
-* **Skills learnt**:
-	* `Challenge 1`
-	* How to Design iOS `Image Assets`
-	* App `Icon` Dimensions
-	* `Sideloading`
-	* `UILabel`
-	* `ImageView`
-
-	
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-five_35-fe0f-20e3.png" height="18"/> [Week 5](https://github.com/allwak/udemy-ios11-app-development-bootcamp-byOks/tree/master/Section%2006%20-%20Magic%208%20Ball)
-
-
 * **Skills learnt**:
 	* `Challenge 2`
 
 
-
-## Syllabus
-Week №     | Name          | Skills gained   | Date Started  | Date Finished | Current Status  
-:-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: | :-----------: | :-----------: 
-1 |<p align="left">Git, GitHub and Version Control</p>|<ul align="left"><li>-</li></ul>|27 Sep 2019|27 Sep 2019|✔️
-2 |<p align="left">Core Data, Realm, User Defaults - Learn Persistent Local Data Storage - Todoey</p>|<ul align="left"><li>-</li></ul>|2* Sep 2019|2* Sep 2019|⚠️ **(in progress)**
-3 |<p align="left">***Course for iOS 12+  :***  In-App Purchases and Apple StoreKit</p>|<ul align="left"><li>-</li></ul>|2* Sep 2019|2* Sep 2019|❌
-4 |<p align="left">***Course for iOS 12+  :*** Machine Learning, CoreML and CreateML</p>|<ul align="left"><li>Introduction to `machine learning`</li><li>CoreML - Using `pre-trained` machine learning models for image recognition</li><li>Using `IBM Watson Bluemix` and `Carthage` for intelligent iOS apps</li><li>Advanced CoreML - Converting a model from `Caffe` to MLModel</li><li>CreateML - Creating your own image recognition model</li><li>Advanced CreateML - Create a Twitter sentiment analysis machine learning model using `natural language processing` (NLP) tools from CreateML</li></ul>|2* Sep 2019|2* Sep 2019|❌
-5 |<p align="left">***Course for iOS 12+  :*** Machine Learning, CoreML and CreateML</p>|<ul align="left"><li>Introduction to `augmented reality`, `ARKit` and `SceneKit`</li><li>Creating `3D objects and text` in AR</li><li>`Animations` in AR</li><li>`Plane` detection</li><li>`Measuring` real world distances in AR</li><li>Image recognition and `tracking` in AR</li><li>`Rendering` 3D models on tracked images</li><li>Playing `videos` in real world tracked images</li></ul>|2* Sep 2019|2* Sep 2019|❌
 
 
 ## Symbol key
