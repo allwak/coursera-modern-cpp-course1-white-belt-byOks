@@ -8,6 +8,7 @@ Lesson №     | Name          | Link
 1 |Data Types| [Link]
 
 ## Assignments
+### Programming Assignments
 №     | Name          | My solution   | Solution of authors
 :-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: 
 1 |«A + B» | [Solution] | [Solution]
