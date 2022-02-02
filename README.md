@@ -1,6 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="60" align="right"/>[COURSERA.COM](https://www.coursera.com) | [Modern C++: Course 1 - White Belt](https://www.coursera.org/learn/c-plus-plus-white) 
 <img src="https://info.nyif.com/wp-content/uploads/2019/05/coursera_logo.jpg" height="15" /> by [MIPT](https://www.mipt.ru) and [YANDEX](https://www.yandex.ru) 
-## <img src="https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/pic/16-Yandex-291-1500_430-1500_430.jpg" height="105" />
+## <img src="https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/Pic/16-Yandex-291-1500_430-1500_430.jpg" height="105" />
 
 ### What you'll learn:
 - [ ] Be able to build main constructions
