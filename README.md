@@ -32,10 +32,6 @@ Week	       |Description    | ReadMe Created  | Completed       | Quick Link
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-four_34-fe0f-20e3.png" height="17"/> 	|Input and Output, Execeptions and Rewriting of Operators | ⚠️ **(in progress)** 	        | ⚠️ **(in progress)**         | [Link]()
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/198/keycap-digit-five_35-fe0f-20e3.png" height="17"/> |Project | ❌ 	       | ❌         | [Link]()
 
-* **Skills learnt**:
-	* `Challenge 2`
-
-
 
 
 ## Symbol key
