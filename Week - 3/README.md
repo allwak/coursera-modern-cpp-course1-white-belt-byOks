@@ -3,20 +3,22 @@
 ## <img src="https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Pic/16-Yandex-291-1500_430-1500_430.jpg" height="105" />
 
 ### Learning Objectives:
-- Apply functions in C++
-- Apply the vector container
-- Apply the map container
-- Apply the set container
+- Apply algorithms
+- Know the visibility and initialization of variables
+- Structures and classes
+- Constancy of methods
+- Constructors
 
 
 ## Syllabus
 Part №     | Name          | Description   | Date Started  | Date Finished | Current Status  
 :-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: | :-----------: | :-----------: 
-1 |[Functions](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%202/%5BPart%201%5D%20Functions)| [4 Lessons](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%202/%5BPart%201%5D%20Functions/Lessons), [3 Practice Assignments](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%202/%5BPart%201%5D%20Functions/Practice%20Assignments), [4 Assignments](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%202/%5BPart%201%5D%20Functions/Assignments)|27 Jan 2022|27 Jan 2022|✔️
-2 |[Container vector](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%202/%5BPart%202%5D%20Container%20vector)| [3 Lessons](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%202/%5BPart%202%5D%20Container%20vector/Lessons), [1 Practice Assignment](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%202/%5BPart%202%5D%20Container%20vector/Practice%20Assignments), [2 Assignments](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%202/%5BPart%202%5D%20Container%20vector/Assignments) |29 Jan 2022|29 Jan 2022|✔️
-3 |[Container map](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%202/%5BPart%203%5D%20Container%20map)|[2 Practice Assignments](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%202/%5BPart%203%5D%20Container%20map/Practice%20Assignments), [2 Assignments](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%202/%5BPart%203%5D%20Container%20map/Assignments)|27 Jan 2022|27 Jan 2022|✔️
-4 |[Container set](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%202/%5BPart%204%5D%20Container%20set)|[2 Practice Assignments](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%202/%5BPart%204%5D%20Container%20set/Practice%20Assignments), [2 Assignments](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%202/%5BPart%204%5D%20Container%20set/Assignments)|27 Jan 2022|27 Jan 2022|✔️
-
+1 |[Algorithms]()| [3 Lessons](), [2 Assignments]()|29 Jan 2022|30 Jan 2022|✔️
+2 |[Visibility and initialization of variables]()| [2 Lessons]()|30 Jan 2022|30 Jan 2022|✔️
+3 |[Introduction to Structures and Classes]()| [4 Lessons](), [1 Practice Assignments](), [2 Assignments]()|30 Jan 2022|-|⚠️
+4 |[Constancy of methods]()| [1 Lesson]()]()|30 Jan 2022|30 Jan 2022|✔️
+3 |[Constructors]()| [3 Lessons](), [2 Practice Assignments](), [1 Assignments]()|-|-|❌
+4 |[Destructors and object lifetime]()| [2 Lessons]()|-|-|❌
 
 
 ## Symbol key
