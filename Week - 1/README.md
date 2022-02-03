@@ -13,7 +13,7 @@ Part №     | Name          | Description   | Date Started  | Date Finished | C
 :-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: | :-----------: | :-----------: 
 1 |[Overview of C++ features](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201/%5BPart%201%5D%20Overview%20of%20C%2B%2B%20features)| 1 Lesson, 1 Assignment|27 Jan 2022|27 Jan 2022|✔️
 2 |[Basic operatioins](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201/%5BPart%202%5D%20Basic%20operatioins)| 1 Lesson, 1 Assignment |27 Jan 2022|27 Jan 2022|✔️
-3 |Conditional operator and loops|1 Lesson, 1 Assignment|27 Jan 2022|27 Jan 2022|✔️
+3 |[Conditional operator and loops](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops)|1 Lesson, [3 Practice Assignments](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Practice%20Assignments), [3 Assignments](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Assignments)|27 Jan 2022|27 Jan 2022|✔️
 
 
 
