@@ -6,14 +6,14 @@
 ### Practice Assignments
 №     | Name          | My solution   | Solution of authors
 :-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: 
-1 |«Average Temperature» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%201%5D%20Functions/Practice%20Assignments/Practice_Programming%20Assignment%201%20Palindrom.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%201%5D%20Functions/Practice%20Assignments/%5BOff%20Solution%5D%20Practice_Programming%20Assignment%201%20Palindrom.cpp)
+1 |«Average Temperature» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%202%5D%20Container%20vector/Practice%20Assignments/Practice_Programming%20Assignment%20Average%20Temperature.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%202%5D%20Container%20vector/Practice%20Assignments/%5BOff%20Solution%5D%20Practice_Programming%20Assignment%20Average%20Temperature.cpp)
 
 
 ### Programming Assignments
 №     | Name          | My solution   | Solution of authors
 :-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: 
-1 |«Queue» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Assignments/Programming%20Assignment%201%20Second%20occurancy.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Assignments/%5BOff%20Solution%5D%20Programming%20Assignment%201%20Second%20occurancy.cpp)
-2 |«Monthly Tasks» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Assignments/Programming%20Assignment%202%20GCD.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Assignments/%5BOff%20Solution%5D%20Programming%20Assignment%202%20GCD.cpp)
+1 |«Queue» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%202%5D%20Container%20vector/Assignments/Programming%20Assignment%201%20Queue.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%202%5D%20Container%20vector/Assignments/%5BOff%20Solution%5D%20Programming%20Assignment%201%20Queue.cpp)
+2 |«Monthly Tasks» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%202%5D%20Container%20vector/Assignments/Programming%20Assignment%202%20Monthly%20Tasks.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%202%5D%20Container%20vector/Assignments/%5BOff%20Solution%5D%20Programming%20Assignment%202%20Monthly%20Tasks.cpp)
 
 
 
