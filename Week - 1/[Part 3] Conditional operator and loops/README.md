@@ -8,6 +8,15 @@ Lesson №     | Name          | Link
 1 |Data Types| [Link](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%201%5D%20Overview%20of%20C%2B%2B%20features/Lessons/Lesson_1.cpp)
 
 ## Assignments
+
+### Practice Assignments
+№     | Name          | My solution   | Solution of authors
+:-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: 
+1 |«Division» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Practice%20Assignments/Practice_Programming%20Assignment%201%20Division.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Practice%20Assignments/%5BOff%20Solution%5D%20Practice_Programming%20Assignment%201%20Division.cpp)
+2 |«Calculate purchase price» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Practice%20Assignments/Practice_Programming%20Assignment%202%20Calculate%20purchase%20price.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Practice%20Assignments/%5BOff%20Solution%5D%20Practice_Programming%20Assignment%202%20Calculate%20purchase%20price.cpp)
+3 |«Even Numbers» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Practice%20Assignments/Practice_Programming%20Assignment%203%20Even%20numbers.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Practice%20Assignments/%5BOff%20Solution%5D%20Practice_Programming%20Assignment%203%20Even%20numbers.cpp)
+
+
 ### Programming Assignments
 №     | Name          | My solution   | Solution of authors
 :-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: 
