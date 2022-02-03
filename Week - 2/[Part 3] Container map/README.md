@@ -13,8 +13,8 @@
 ### Programming Assignments
 №     | Name          | My solution   | Solution of authors
 :-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: 
-1 |«Bus Stops 1» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Assignments/Programming%20Assignment%201%20Second%20occurancy.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Assignments/%5BOff%20Solution%5D%20Programming%20Assignment%201%20Second%20occurancy.cpp)
-2 |«Bus Stops 2» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Assignments/Programming%20Assignment%202%20GCD.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%201/%5BPart%203%5D%20Conditional%20operator%20and%20loops/Assignments/%5BOff%20Solution%5D%20Programming%20Assignment%202%20GCD.cpp)
+1 |«Bus Stops 1» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%203%5D%20Container%20map/Assignments/Programming%20Assignment%201%20Bus%20Stops%201.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%203%5D%20Container%20map/Assignments/%5BOff%20Solution%5D%20Programming%20Assignment%201%20Bus%20Stops%201.cpp)
+2 |«Bus Stops 2» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%203%5D%20Container%20map/Assignments/Programming%20Assignment%201%20Bus%20Stops%202.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%203%5D%20Container%20map/Assignments/%5BOff%20Solution%5D%20Programming%20Assignment%201%20Bus%20Stops%202.cpp)
 
 
 
