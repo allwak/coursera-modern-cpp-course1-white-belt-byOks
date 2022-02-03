@@ -7,7 +7,7 @@
 №     | Name          | My solution   | Solution of authors
 :-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: 
 1 |«Anagrams» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%203%5D%20Container%20map/Practice%20Assignments/Practice_Programming%20Assignment%201%20Anagrams.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%203%5D%20Container%20map/Practice%20Assignments/%5BOff%20Solution%5D%20Practice_Programming%20Assignment%201%20Anagrams.cpp)
-2 |«Countries | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%203%5D%20Container%20map/Practice%20Assignments/Practice_Programming%20Assignment%202%20Countries.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%203%5D%20Container%20map/Practice%20Assignments/%5BOff%20Solution%5D%20Practice_Programming%20Assignment%202%20Countries.cpp)
+2 |«Countries» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%203%5D%20Container%20map/Practice%20Assignments/Practice_Programming%20Assignment%202%20Countries.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%203%5D%20Container%20map/Practice%20Assignments/%5BOff%20Solution%5D%20Practice_Programming%20Assignment%202%20Countries.cpp)
 
 
 ### Programming Assignments
