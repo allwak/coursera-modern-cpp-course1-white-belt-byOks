@@ -15,9 +15,6 @@ Lesson №     | Name          | Link
 :-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: 
 1 |«Sorting integers by modulo» | [Solution]() | [Solution]()
 2 |«Case-insensitive sorting» | [Solution]() | [Solution]()
-3 |«Move Strings» | [Solution]() | [Solution]()
-4 | «Reverse Container» | [Solution]() | [Solution]()
-
 
 
 
