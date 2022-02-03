@@ -13,12 +13,12 @@
 ## Syllabus
 Part №     | Name          | Description   | Date Started  | Date Finished | Current Status  
 :-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: | :-----------: | :-----------: 
-1 |[Algorithms]()| [3 Lessons](), [2 Assignments]()|29 Jan 2022|30 Jan 2022|✔️
+1 |[Algorithms](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%203/%5BPart%201%5D%20Algorithms)| [3 Lessons](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%203/%5BPart%201%5D%20Algorithms/Lessons), [2 Assignments](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/tree/master/Week%20-%203/%5BPart%201%5D%20Algorithms/Assignments)|29 Jan 2022|30 Jan 2022|✔️
 2 |[Visibility and initialization of variables]()| [2 Lessons]()|30 Jan 2022|30 Jan 2022|✔️
 3 |[Introduction to Structures and Classes]()| [4 Lessons](), [1 Practice Assignments](), [2 Assignments]()|30 Jan 2022|-|⚠️
-4 |[Constancy of methods]()| [1 Lesson]()]()|30 Jan 2022|30 Jan 2022|✔️
-3 |[Constructors]()| [3 Lessons](), [2 Practice Assignments](), [1 Assignments]()|-|-|❌
-4 |[Destructors and object lifetime]()| [2 Lessons]()|-|-|❌
+4 |[Constancy of methods]()| [1 Lesson]()|30 Jan 2022|30 Jan 2022|✔️
+5 |[Constructors]()| [3 Lessons](), [2 Practice Assignments](), [1 Assignments]()|-|-|❌
+6 |[Destructors and object lifetime]()| [2 Lessons]()|-|-|❌
 
 
 ## Symbol key
