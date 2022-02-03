@@ -1,4 +1,4 @@
-# [Week 1] |Container <vector>
+# [Week 2] |Container <vector>
 <img src="https://info.nyif.com/wp-content/uploads/2019/05/coursera_logo.jpg" height="15" /> by [MIPT](https://www.mipt.ru) and [YANDEX](https://www.yandex.ru) 
 ## <img src="https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Pic/16-Yandex-291-1500_430-1500_430.jpg" height="105" />
 
@@ -6,7 +6,7 @@
 ### Practice Assignments
 №     | Name          | My solution   | Solution of authors
 :-----------: | :------------------------------------: | :---------------------------------------------------: | :-----------: 
-1 |«Average Temperature | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%201%5D%20Functions/Practice%20Assignments/Practice_Programming%20Assignment%201%20Palindrom.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%201%5D%20Functions/Practice%20Assignments/%5BOff%20Solution%5D%20Practice_Programming%20Assignment%201%20Palindrom.cpp)
+1 |«Average Temperature» | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%201%5D%20Functions/Practice%20Assignments/Practice_Programming%20Assignment%201%20Palindrom.cpp) | [Solution](https://github.com/allwak/coursera-modern-cpp-course1-white-belt-byOks/blob/master/Week%20-%202/%5BPart%201%5D%20Functions/Practice%20Assignments/%5BOff%20Solution%5D%20Practice_Programming%20Assignment%201%20Palindrom.cpp)
 
 
 ### Programming Assignments
