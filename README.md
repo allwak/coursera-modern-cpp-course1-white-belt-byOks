@@ -43,7 +43,7 @@ Symbol|  -   | Description
 
 ## Important Links
 
-* [Apple Documentation: Swift](https://developer.apple.com/documentation/swift)
+* [To be continued](https://i.gifer.com/9gTX.gif)
 ###
 <p align="right"><b>Copyright ©️</b></p>
 <p align="right"><b>Yurii Oksamytnyi</b></p>
