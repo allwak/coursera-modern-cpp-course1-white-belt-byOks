@@ -1,31 +1,32 @@
 #include <iostream>
-#include <cstdio>
 #include <string>
 #include <vector>
-#include <map>
+#include <algorithm>
+#include <iomanip>
 using namespace std;
 
-bool Contains(vector<string> words, string w) {
-    for(auto s: words) {
-        if (s == w) {
-            return true;
-        }
+void Print(const vector<int>& v, const string& title) {
+    cout << title << ": ";
+    for (auto i: v) {
+        cout << i << " ";
     }
-    return false;
-}
-
-int Sum(int x, int y) {
-    return x + y;
 }
 
 int main() {
-    int x = 5, y = 4;
-    cout << Sum(x,y) << endl;
-    // 9
+    string s1 = "abc";
+    string s2 = "bca";
 
-    cout << Contains({"air","water", "fire"}, "fire");
-    // 1 (True)
+    cout << min(s1, s2) << endl; // abc ("a" < "b")
+    cout << max(s1, s2) << endl; // bca ("b" > "a")
+
+    vector<int> v {
+        1, 3, 2, 5, 4
+    };
     
+    Print(v, "init");
+    sort(begin(v), end(v));
+    Print(v, "sort");
+
     return 0;
 }
 
