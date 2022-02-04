@@ -12,6 +12,7 @@ void Print(const vector<int>& v, const string& title) {
     }
 }
 
+
 int main() {
     string s1 = "abc";
     string s2 = "bca";
