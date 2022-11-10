@@ -47,3 +47,4 @@ Symbol|  -   | Description
 ###
 <p align="right"><b>Copyright ©️</b></p>
 <p align="right"><b>Yurii Oksamytnyi</b></p>
+<p align="right"><b>2022</b></p>
